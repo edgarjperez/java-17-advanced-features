@@ -7,7 +7,7 @@ layout: default
 
 Java seems to be around for ages. 10+ years ago, you had to write several lines of code to achieve simpler things, 
 and if we talk about complex business applications where you used to have to combine the powers of 
-frameworks like Spring, Struts, Hibernate, and some application containers like Tomcat or Jboss; the things probably 
+frameworks like Spring, Struts, Hibernate, and some application containers like Tomcat or JBoss; the things probably 
 became harder to cope.
 
 But when you pass this steep learning curve, it all comes naturally to you, and from one moment to another, 
