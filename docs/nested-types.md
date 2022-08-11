@@ -90,3 +90,6 @@ public record Invoice(long id, Employee employee, BigDecimal amount) {
 ## Nested Interfaces, Records, enums
 
 - Are implicit static
+
+
+[Back](./../index.md)

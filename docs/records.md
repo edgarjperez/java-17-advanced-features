@@ -126,3 +126,6 @@ public record ProductRec(long id, String name, String description) {
 - JPA Entities
 - Singletons
 - No direct replacement for JavaBeans
+
+
+[Back](./../index.md)
