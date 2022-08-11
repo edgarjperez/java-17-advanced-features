@@ -28,7 +28,7 @@ Examples of immutable classes in Java API
 
 #### String concatenation
 
-```
+```java
 // Inefficient code
 String str = "";
 for (int i = 0; i < 100; i++) {
@@ -38,7 +38,7 @@ for (int i = 0; i < 100; i++) {
 
 ### Immutable class code example
 
-```
+```java
 
 import java.util.Objects;
 
@@ -100,7 +100,7 @@ public final class ProductCls { // The class itself is final
 ```
 ### Record code example
 
-```
+```java
 /**
  * Example of a record with the same functionality as the immutable class {@link ProductCls}
  */
