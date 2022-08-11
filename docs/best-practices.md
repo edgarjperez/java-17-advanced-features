@@ -85,5 +85,17 @@ String json = """
         ]
         """;
 ````
+## Reduce verbosity with var
 
+````java
+
+// Local variable type inference
+
+String name;
+var name; // no improvement
+
+BufferedReader reader = new BufferedReader(...); 
+var reader = new BufferedReader(...); // yes 
+
+````
 [Back](./../index.md)
