@@ -3,6 +3,7 @@ title: "Records"
 permalink: /records 
 layout: default
 ---
+![Morfeo](images/records.png)
 
 # Records
 

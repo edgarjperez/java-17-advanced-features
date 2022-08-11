@@ -1,3 +1,9 @@
+---
+title: "Nested Types"
+permalink: /nested-types
+layout: default
+---
+
 # Nested types
 
 Types (clasess, interfaces, records, enums) that are defined in other places than inside a package.
